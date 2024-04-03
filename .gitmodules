@@ -1,0 +1,3 @@
+[submodule "aprendendo_submodulos"]
+	path = aprendendo_submodulos
+	url = https://github.com/MichellyNonatto/gestao-walter.git

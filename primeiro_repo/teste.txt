@@ -6,4 +6,8 @@ Teste commit dois
 
 Teste commit três
 
+<<<<<<< HEAD
 Teste utilizando fetch 
+=======
+Olá
+>>>>>>> 3baf39be761ecba24a39f4c8158a5e1675c182be
