@@ -5,3 +5,5 @@ Aprendendo comandos Git e uso do GitHub.
 Teste commit dois
 
 Teste commit três
+
+Teste utilizando fetch 
