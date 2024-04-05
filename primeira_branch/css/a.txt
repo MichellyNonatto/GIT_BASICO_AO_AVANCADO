@@ -1,1 +1,0 @@
-Testando atualização de arquivos utilizando o git pull.

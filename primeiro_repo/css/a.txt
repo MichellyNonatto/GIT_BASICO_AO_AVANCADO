@@ -1,3 +1,0 @@
-Testando atualização de arquivos utilizando o git pull.
-
-Enviando a nova funcionalidade x
